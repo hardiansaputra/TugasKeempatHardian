@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tugaskeempathardian</string>
+
+    <string name="hello_world">hello hardian!!!</string>
+    <string name="apakabar_hardian">gimana kabarnya hardian!!!</string>
+    <string name="peuhaba_sagonyan">kiban sago nyan hardian!!!</string>
+    <string name="tombol_penerjemahBahasaInd">Terjemahkan</string>
+    <string name="tombol_penerjemahBahasaAceh">Makna jieh</string>
+    <string name="tombol_penerjemahBahasaEng">Translate</string>
+    <string name="action_settings">Settings</string>
+</resources>
